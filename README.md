@@ -683,5 +683,6 @@ See [LICENSE](LICENSE) for the full text.
 - **Mongoose** — MongoDB object modelling for Node.js.
 - **Create React App** — the frontend toolchain.
 - **Jigyansu Nanda** — the original author of this project.
+- **Girish Lade** — maintained and published by Girish Lade. Built by [Girish Lade](https://ladestack.in).
 
 Happy coding.
